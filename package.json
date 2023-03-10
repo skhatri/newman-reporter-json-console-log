@@ -18,6 +18,7 @@
   "homepage": "https://github.com/skhatri/newman-reporter-json-console-log",
   "bugs": {
     "url": "https://github.com/skhatri/newman-reporter-json-console-log/issues"
-  }
+  },
+  "keywords": ["newman", "json", "console", "line"]
 }
 
