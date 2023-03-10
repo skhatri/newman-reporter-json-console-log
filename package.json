@@ -1,0 +1,14 @@
+{
+  "name": "newman-reporter-json-console-log",
+  "version": "0.2",
+  "description": "A reporter that logs each item to console in JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "servlet2",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.3.2"
+  }
+}
