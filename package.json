@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-json-console-log",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A reporter that logs each item to console in JSON format",
   "main": "index.js",
   "scripts": {
