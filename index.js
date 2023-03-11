@@ -4,7 +4,7 @@ let createItemisedStats = function(data, options) {
     let out = {};
     let items = [];
     let collectionName = data.collection.name;
-    let description = data.collection.description.type === 'text/plain' ? data.collection.description.content : "";
+    let description = data.collection.description && data.collection.description.type === 'text/plain' ? data.collection.description.content : "not set";
     let envName = data.environment.name;
     let start_time = data.run.timings.started;
     let end_time = data.run.timings.completed;
